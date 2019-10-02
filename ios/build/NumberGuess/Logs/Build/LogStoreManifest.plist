@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>AFEC1F0C-B27E-41C3-9D93-FA6F1D7CE8D6</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>AFEC1F0C-B27E-41C3-9D93-FA6F1D7CE8D6.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NumberGuess project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NumberGuess</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project NumberGuess with scheme NumberGuess and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591667855.16056705</real>
+			<key>timeStoppedRecording</key>
+			<real>591667855.571661</real>
+			<key>title</key>
+			<string>Building project NumberGuess with scheme NumberGuess and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>AFEC1F0C-B27E-41C3-9D93-FA6F1D7CE8D6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
