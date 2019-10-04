@@ -38,6 +38,38 @@
 			<key>uniqueIdentifier</key>
 			<string>4AD4CB5D-8982-49BB-977C-C3211BA7550E</string>
 		</dict>
+		<key>6A358302-CEE0-4BAA-9458-B06CA6F4B6B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6A358302-CEE0-4BAA-9458-B06CA6F4B6B9.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NumberGuess project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NumberGuess</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace NumberGuess with scheme NumberGuess and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>591841304.61432803</real>
+			<key>timeStoppedRecording</key>
+			<real>591841305.29118598</real>
+			<key>title</key>
+			<string>Building workspace NumberGuess with scheme NumberGuess and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>6A358302-CEE0-4BAA-9458-B06CA6F4B6B9</string>
+		</dict>
 	</dict>
 </dict>
 </plist>
