@@ -6,38 +6,6 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>7E001B6F-7610-4158-AA58-5FC7C6729FE1</key>
-		<dict>
-			<key>className</key>
-			<string>IDECommandLineBuildLog</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7E001B6F-7610-4158-AA58-5FC7C6729FE1.xcactivitylog</string>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>NumberGuess project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>NumberGuess</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Building workspace NumberGuess with scheme NumberGuess and configuration Debug</string>
-			<key>timeStartedRecording</key>
-			<real>591997628.65069997</real>
-			<key>timeStoppedRecording</key>
-			<real>591997629.51327205</real>
-			<key>title</key>
-			<string>Building workspace NumberGuess with scheme NumberGuess and configuration Debug</string>
-			<key>uniqueIdentifier</key>
-			<string>7E001B6F-7610-4158-AA58-5FC7C6729FE1</string>
-		</dict>
 		<key>870AE229-7317-4359-A4B4-1421D59C115A</key>
 		<dict>
 			<key>className</key>
@@ -69,6 +37,38 @@
 			<string>Building workspace NumberGuess with scheme NumberGuess and configuration Debug</string>
 			<key>uniqueIdentifier</key>
 			<string>870AE229-7317-4359-A4B4-1421D59C115A</string>
+		</dict>
+		<key>E38FB8A0-8BDE-4D1D-BE2E-07A43757C0CA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E38FB8A0-8BDE-4D1D-BE2E-07A43757C0CA.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>NumberGuess project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>NumberGuess</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace NumberGuess with scheme NumberGuess and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>592358728.93854403</real>
+			<key>timeStoppedRecording</key>
+			<real>592358729.93608403</real>
+			<key>title</key>
+			<string>Building workspace NumberGuess with scheme NumberGuess and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E38FB8A0-8BDE-4D1D-BE2E-07A43757C0CA</string>
 		</dict>
 	</dict>
 </dict>
